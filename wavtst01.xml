@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="multimedia_playwav" id="66" x="17" y="-4">
-    <field name="WAV">boing3</field>
+  <block type="multimedia_playwav" id="1" x="17" y="-4">
+    <field name="WAV">APPL</field>
   </block>
 </xml>
